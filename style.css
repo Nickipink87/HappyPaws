@@ -13,8 +13,8 @@ p {
 }
 
 .dog-image {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  width: 100%;
+  display: flex;
+  justify-content: center;
 }
   
