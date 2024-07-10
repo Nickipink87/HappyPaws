@@ -12,6 +12,9 @@ p {
   font-size: 50px;
 }
 
-img {
+.dog-image {
   border: 10px solid black;
+  display: block;
+  margin: auto;
+}
   
